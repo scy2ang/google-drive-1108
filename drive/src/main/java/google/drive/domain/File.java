@@ -41,12 +41,6 @@ public class File  {
     
     
     private Long size;
-    
-    
-    
-    
-    
-    private String test;
 
     @PostPersist
     public void onPostPersist(){
